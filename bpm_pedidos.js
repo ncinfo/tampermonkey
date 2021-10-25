@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pedidos NC Sistemas (Alterado)
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Pedidos NC Sistemas
 // @author       Wagner Felipe Leszkiewicz
 // @match        https://platform.senior.com.br/ecm-frontend/*
@@ -39,6 +39,10 @@
             setInitialValue('qte_colaboradores_modulo_');
             setInitialValue('valor_de_desconto_concedido');
             setInitialValue('parcela_');
+            setInitialValue('valor_hora_projeto');
+            setInitialValue('valor_cdu_senior');
+            setInitialValue('valor_servicos_senior');
+            setInitialValue('valor_hora_projeto');
 
 
         })
