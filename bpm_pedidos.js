@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Pedidos NC Sistemas
+// @name         Pedidos NC Sistemas (Alterado)
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Pedidos NC Sistemas
