@@ -35,6 +35,10 @@
 
             setInitialValue('qt_horas_modulo_');
             setInitialValue('atst_modulo_');
+            setInitialValue('cdu_modulo_');
+            setInitialValue('qte_colaboradores_modulo_');
+            setInitialValue('valor_de_desconto_concedido');
+            setInitialValue('parcela_');
 
 
         })
